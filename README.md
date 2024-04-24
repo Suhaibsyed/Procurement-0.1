@@ -1,7 +1,7 @@
 # Procurement-0.1
 
-| Use cases | Links | 
-|----------| -------|
+| Use cases |Description| Links | 
+|----------| -------|--------| 
 |Modules|
 |ADMIN|
 |REQUESTOR|
