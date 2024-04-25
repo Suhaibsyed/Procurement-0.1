@@ -6,7 +6,7 @@
 |ADMIN|
 |REQUESTOR|
 |SUPPLIER|
-|Realease Note|
+|Realease Note| A Detail 
 |Scope Document|
 | Test Cases|
 | API Specs|
